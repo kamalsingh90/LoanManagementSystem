@@ -6,6 +6,8 @@ The production proposal also requires real Aadhaar/PAN/bank verification, secure
 
 Build: Android SDK 36, JDK 17, AGP 8.11.2, Gradle 8.13. core-ktx is pinned to 1.17.0 to avoid the core-ktx 1.19.0/AGP mismatch.
 
+implement the same Loan Management System screens shown above using Kotlin + Jetpack Compose.
+
 # Loan Management System – Android
 
 A prototype Loan Management System developed using Kotlin and Jetpack Compose.
